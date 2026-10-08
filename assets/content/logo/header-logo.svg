@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 72" role="img" aria-labelledby="roaHeaderTitle roaHeaderDesc">
+  <title id="roaHeaderTitle">ROA — RevNet of Alabama</title>
+  <desc id="roaHeaderDesc">The Alabama state flag beside a bold geometric ROA wordmark.</desc>
+  <defs>
+    <clipPath id="roaHeaderFlagClip">
+      <rect x="4" y="12" width="62" height="44" rx="7" fill="#FAF7F2"/>
+    </clipPath>
+  </defs>
+
+  <rect x="4" y="12" width="62" height="44" rx="7" fill="#FAF7F2" stroke="#205238" stroke-width="3"/>
+  <g clip-path="url(#roaHeaderFlagClip)">
+    <path d="M-1 7L71 61" fill="none" stroke="#C33D3D" stroke-width="8" stroke-linecap="square"/>
+    <path d="M71 7L-1 61" fill="none" stroke="#C33D3D" stroke-width="8" stroke-linecap="square"/>
+  </g>
+  <rect x="7" y="15" width="56" height="38" rx="5" fill="none" stroke="#E6B85C" stroke-width="1.5"/>
+
+  <path fill="#FAF7F2" stroke="#205238" stroke-width="2.6" stroke-linejoin="round" paint-order="stroke fill" fill-rule="evenodd" d="M82 8h24c14 0 22 7 22 19 0 8-4 14-11 17l14 12h-18l-11-10h-4v10H82V8Zm16 13v13h7c5 0 8-2 8-6.5S110 21 105 21h-7Z"/>
+  <path fill="#FAF7F2" stroke="#205238" stroke-width="2.6" stroke-linejoin="round" paint-order="stroke fill" fill-rule="evenodd" d="M133 32c0-15 10-25 26-25s26 10 26 25-10 25-26 25-26-10-26-25Zm15 0c0 8 4 13 11 13s11-5 11-13-4-13-11-13-11 5-11 13Z"/>
+  <path fill="#FAF7F2" stroke="#205238" stroke-width="2.6" stroke-linejoin="round" paint-order="stroke fill" fill-rule="evenodd" d="m187 56 20-48h17l20 48h-16l-3-9h-20l-3 9h-15Zm22-21h12l-6-16-6 16Z"/>
+
+  <rect x="82" y="60" width="162" height="10" rx="3" fill="#E6B85C"/>
+  <text x="163" y="67.6" fill="#163B29" font-family="Arial, Helvetica, sans-serif" font-size="7.2" font-weight="700" letter-spacing="1.65" text-anchor="middle">REVNET OF ALABAMA</text>
+</svg>
